@@ -7,6 +7,7 @@ Fast food fast is a food delivery service app for a restaurant
 
 ## API Features
 The API contains the endpoints below:
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
@@ -14,7 +15,7 @@ The API contains the endpoints below:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-# API documentation [here](https://web.postman.co/collections/5964106-6d31ec5d-b944-4d74-af9a-9f1969f235cd?workspace=3887631d-5d04-4de5-8c85-e8f8c27b58db)
+## API documentation [here](https://web.postman.co/collections/5964106-6d31ec5d-b944-4d74-af9a-9f1969f235cd?workspace=3887631d-5d04-4de5-8c85-e8f8c27b58db)
 
 ## Manual testing of the API
 To manually test these endpoints, configure and run the server as below:
