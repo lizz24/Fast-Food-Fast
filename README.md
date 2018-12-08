@@ -16,7 +16,7 @@ The API contains the endpoints below:
 | PUT /v1/orders/int:order_id  | Update order status  |
 | DELETE /v1/orders/int:order_id  | DELETE a specific posted order  |
 
-## API documentation [here](https://documenter.getpostman.com/view/5964106/RzffLqTxb)
+## API documentation [here](https://documenter.getpostman.com/view/5964106/RzffLqTx)
 
 ## Manual testing of the API
 To manually test these endpoints, configure and run the server as below:
