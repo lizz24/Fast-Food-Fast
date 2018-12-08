@@ -7,13 +7,15 @@ Fast food fast is a food delivery service app for a restaurant
 
 ## API Features
 The API contains the endpoints below:
-| Endpoint                      | What it does  |
-| ------------------------------| ------------- |
+| Endpoint     | What it does  |
+| -------------| ------------- |
 | POST /v1/orders               |Place an order  |
 | GET /v1/orders                |Fetch all orders  |
 | GET /v1/orders/int:order_id   |Fetch specific order|
 |PUT /v1/orders/int:order_id    |Update order status  |
 |DELETE /v1/orders/int:order_id |DELETE a specific posted order |
+
+# API documentation here[https://web.postman.co/collections/5964106-6d31ec5d-b944-4d74-af9a-9f1969f235cd?workspace=3887631d-5d04-4de5-8c85-e8f8c27b58db]
 
 ## Manual testing of the API
 To manually test these endpoints, configure and run the server as below:
